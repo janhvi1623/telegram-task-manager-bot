@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Database file (optional - recommended to ignore)
+tasks.db
+
+# OS files
+.DS_Store
+Thumbs.db
